@@ -1,5 +1,5 @@
 # Welcome to taxi service
-Taxi Service is a simple Web application that implements authentication, registration, and database operations. The application has several commands:
+Taxi Service is a Web application that implements authentication, registration, and database operations. Application functionality:
 - Show all drivers and remove from database of choice.
 - Show all cars and remove from database of choice.
 - Show all manufacturers and remove from database of choice.
@@ -15,8 +15,8 @@ Taxi Service is a simple Web application that implements authentication, registr
 - Service - business logic, working with data before reading or writing to the database.
 - Controllers - Presentation layer, work with commands from user and sending incoming data to service.
 ---
-## Using technologies
 
+## Using technologies:
 - Java 11
 - Tomcat - version 9.0.50
 - MySQL
@@ -27,7 +27,7 @@ Taxi Service is a simple Web application that implements authentication, registr
 - HTML
 - CSS
 ---
-## How  to run "taxi_service"
+## How to run "taxi_service"
 
 First of all, you need to install MySql and Tomcat version 9 installed.
 1. Connect Tomcat to yours intelligent idea.
